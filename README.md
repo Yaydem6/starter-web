@@ -15,3 +15,4 @@ devam
 2024 Git.Training
 update for rebase
 myfeature branchdeyken güncelliyorum
+stash example simple.html de değişiklik yapıp stash yaptıktan sonrası
