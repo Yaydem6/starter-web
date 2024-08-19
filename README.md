@@ -13,3 +13,4 @@ HALA EKLİYOZ
 BİTMEYECEK GALİBA
 devam
 2024 Git.Training
+update for rebase
